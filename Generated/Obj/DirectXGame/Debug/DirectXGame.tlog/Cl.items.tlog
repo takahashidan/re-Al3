@@ -1,7 +1,7 @@
 C:\Users\srieu\Desktop\re-Al3\DirectXGame\2d\ImGuiManager.cpp;C:\Users\srieu\Desktop\re-Al3\Generated\Obj\DirectXGame\Debug\ImGuiManager.obj
-C:\Users\srieu\Desktop\re-Al3\DirectXGame\actor\Player.cpp;C:\Users\srieu\Desktop\re-Al3\Generated\Obj\DirectXGame\Debug\Player.obj
+C:\Users\srieu\Desktop\re-Al3\DirectXGame\3d\WorldTransform.cpp;C:\Users\srieu\Desktop\re-Al3\Generated\Obj\DirectXGame\Debug\WorldTransform.obj
 C:\Users\srieu\Desktop\re-Al3\DirectXGame\base\DirectXCommon.cpp;C:\Users\srieu\Desktop\re-Al3\Generated\Obj\DirectXGame\Debug\DirectXCommon.obj
 C:\Users\srieu\Desktop\re-Al3\DirectXGame\base\WinApp.cpp;C:\Users\srieu\Desktop\re-Al3\Generated\Obj\DirectXGame\Debug\WinApp.obj
 C:\Users\srieu\Desktop\re-Al3\DirectXGame\main.cpp;C:\Users\srieu\Desktop\re-Al3\Generated\Obj\DirectXGame\Debug\main.obj
-C:\Users\srieu\Desktop\re-Al3\DirectXGame\math\MathUtilityForText.cpp;C:\Users\srieu\Desktop\re-Al3\Generated\Obj\DirectXGame\Debug\MathUtilityForText.obj
+C:\Users\srieu\Desktop\re-Al3\DirectXGame\math\MyMath\MatrixMath.cpp;C:\Users\srieu\Desktop\re-Al3\Generated\Obj\DirectXGame\Debug\MatrixMath.obj
 C:\Users\srieu\Desktop\re-Al3\DirectXGame\scene\GameScene.cpp;C:\Users\srieu\Desktop\re-Al3\Generated\Obj\DirectXGame\Debug\GameScene.obj
